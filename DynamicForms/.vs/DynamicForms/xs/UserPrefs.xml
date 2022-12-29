@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{0AC0D576-6AE8-4CCA-9A02-1178E8FE558D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicForms.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="DynamicForms/ViewModels/DynamicPageViewModel.cs" Line="8" Column="2" />
+      <File FileName="DynamicForms/Controls/DropdownControls.cs" Line="1" Column="32" />
+      <File FileName="DynamicForms/Controls/LabelControl.cs" Line="1" Column="31" />
+      <File FileName="DynamicForms/Controls/PageTitleControl.cs" Line="1" Column="31" />
+      <File FileName="DynamicForms/Controls/SubmitButton.cs" Line="1" Column="31" />
+      <File FileName="DynamicForms/Controls/TextboxControl.cs" Line="2" Column="32" />
+      <File FileName="DynamicForms/UIConstants/UIConstants.cs" Line="2" Column="23" />
+      <File FileName="DynamicForms/Template/PageTemplate.cs" Line="5" Column="23" />
+      <File FileName="DynamicForms/ViewModels/BaseViewModel.cs" Line="2" Column="29" />
+      <File FileName="../../.nuget/packages/mvvmcross/7.1.2/readme.txt" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/mvvmcross.forms/7.1.2/readme.txt" Line="1" Column="1" />
+      <File FileName="DynamicForms.Android/Setup.cs" Line="13" Column="1" />
+      <File FileName="DynamicForms/CoreApp.cs" Line="17" Column="11" />
+      <File FileName="DynamicForms.Android/MainActivity.cs" Line="27" Column="10" />
+      <File FileName="DynamicForms/View/DynamicPage.cs" Line="40" Column="11" />
+      <File FileName="DynamicForms/Utils/UIUtilities.cs" Line="1" Column="1" />
+      <File FileName="DynamicForms.iOS/AppDelegate.cs" Line="14" Column="115" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DynamicForms" expanded="True">
+            <Node name="DynamicForms" expanded="True">
+              <Node name="Utils" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="DynamicForms.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="DynamicForms.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DynamicForms.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DynamicForms.Android PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
